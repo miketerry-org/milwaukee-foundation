@@ -1,0 +1,7 @@
+{
+  "watchDir": ".",
+  "searchDirs": ["test"],
+  "endsWith": [".test.js", ".test.ts", ".test.mjs"],
+  "excludeDirs": ["node_modules", ".git"],
+  "onlyFiles": []
+}

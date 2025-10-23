@@ -1,0 +1,39 @@
+{
+  "type": "module",
+  "name": "milwaukee-foundation",
+  "version": "0.0.1",
+  "description": "Contains foundational classes and function used by other packages",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=dev node --watch . index.js",
+    "test": "ormond"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/milwaukee-foundation.git"
+  },
+  "keywords": [
+    "milwaukey",
+    "foundation",
+    "classes",
+    "functions",
+    "files",
+    "folders",
+    "paths",
+    "env",
+    "environment",
+    "variables"
+  ],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/milwaukee-foundation/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/milwaukee-foundation#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "ormond-tdd": "^0.6.7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "file": "/Users/miketerry.org/code/miketerry.org/packages/cities/milwaukee-foundation/test/assert.test.js",
+  "relativePath": "assert.test.js",
+  "timestamp": "2025-10-22T18:10:38.140Z",
+  "summary": {
+    "file": "/Users/miketerry.org/code/miketerry.org/packages/cities/milwaukee-foundation/test/assert.test.js",
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "duration": "0.01"
+  },
+  "logs": [
+    "\n▶ Running tests in: /Users/miketerry.org/code/miketerry.org/packages/cities/milwaukee-foundation/test/assert.test.js"
+  ]
+}
