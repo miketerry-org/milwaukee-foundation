@@ -4,6 +4,7 @@
 
 // import all necessary modules
 import assert from "./lib/assert.js";
+import Base from "./lib/base.js";
 import Config from "./lib/config.js";
 import env from "./lib/env.js";
 import logLevels from "./lib/logLevels.js";
@@ -19,6 +20,7 @@ import verify from "./lib/verify.js";
 
 export {
   assert,
+  Base,
   Config,
   env,
   logLevels,

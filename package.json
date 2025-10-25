@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "milwaukee-foundation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Contains foundational classes and function used by other packages",
   "main": "index.js",
   "scripts": {
